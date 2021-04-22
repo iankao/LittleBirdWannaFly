@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:27
+-keep class com.anythru.goupstairs.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:37
+-keep class com.google.android.gms.ads.AdActivity { <init>(...); }
+
+# view res/layout/activity_main.xml #generated:17
+-keep class com.google.android.gms.ads.AdView { <init>(...); }
+
